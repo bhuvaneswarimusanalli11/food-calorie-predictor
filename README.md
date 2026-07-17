@@ -84,6 +84,3 @@ pillow
 - Calorie values are approximate, sourced from general nutrition references and mapped per food class.
 - The classifier currently supports 40 food classes from the UECFOOD100 dataset (mostly Japanese and Western dishes).
 
-## License
-
-Add your preferred license here (e.g. MIT).
